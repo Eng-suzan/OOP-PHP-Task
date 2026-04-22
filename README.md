@@ -53,4 +53,9 @@ The project demonstrates how to handle product data and perform basic business l
 1. Clone the repository
 2. Place it inside `htdocs` folder (XAMPP)
 3. Start Apache server
-4. Open in browser:**
+4. Open in browser:**http://localhost/course332/oop/task1.php
+
+---
+
+## 📌 Notes
+This project is created for learning purposes to practice OOP concepts in PHP.
